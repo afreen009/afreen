@@ -1,0 +1,205 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="micro.com" resolutions="1x" timestamp="1566743950233">
+  <folder name="css">
+    <file name="site_global.css" crc="4029444368"/>
+    <file name="master_a-master.css" crc="503329169" ref="gallery:laptop:accesories:contact-us:about:index:contact:desktop"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="gallery:laptop:accesories:contact-us:about:index:contact:desktop"/>
+    <file name="gallery.css" crc="3919565181" ref="gallery"/>
+    <file name="laptop.css" crc="4026454361" ref="laptop"/>
+    <file name="accesories.css" crc="3841292105" ref="accesories"/>
+    <file name="contact-us.css" crc="117560484" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="4161247863" ref="contact-us"/>
+    <file name="about.css" crc="3901359158" ref="about"/>
+    <file name="index.css" crc="4290180548" ref="index"/>
+    <file name="contact.css" crc="285883101" ref="contact"/>
+    <file name="desktop.css" crc="4098327980" ref="desktop"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
+    <file name="museutils.js" crc="340535759" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
+    <file name="museconfig.js" crc="4286661555" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="laptop:about:desktop:index:accesories"/>
+    <file name="jquery.watch.js" crc="51536988" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
+    <file name="webpro.js" crc="4059564322" ref="laptop:desktop:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="laptop:desktop:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="laptop:desktop:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="laptop:desktop:index"/>
+    <file name="require.js" crc="7928878" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="photo-1498050108023-c5249f4df085.jpg" crc="9427267" ref="laptop:desktop">
+      <caption webpage="laptop" alt=""/>
+    </file>
+    <file name="c0a12e55b291245eed0ab681337e552b990.jpg" crc="4217989345" ref="laptop">
+      <caption webpage="laptop" alt=""/>
+    </file>
+    <file name="9164291_r_z001a.jpg" crc="3961221425" ref="laptop">
+      <caption webpage="laptop" alt=""/>
+    </file>
+    <file name="apple-mac-technical-support-u3282-fr.png" crc="4022003509" ref="laptop"/>
+    <file name="91p8hgx7xsl_sx425_.jpg" crc="142022293" ref="laptop">
+      <caption webpage="laptop" alt=""/>
+    </file>
+    <file name="macbook-transparent-background (1).png" crc="3983384961" ref="laptop">
+      <caption webpage="laptop" alt=""/>
+    </file>
+    <file name="intel_logo-1.png" crc="3960000391" ref="laptop:desktop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amd_logo-1.png" crc="10203390" ref="laptop:desktop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="256-256-0057616d64af28f3ef25b9095efda57f-asus.png" crc="224303968" ref="laptop:desktop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hp.png" crc="3818950273" ref="laptop:desktop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c533.png" crc="3924862115" ref="laptop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="canon_logo_vector.png" crc="137567172" ref="laptop:desktop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dell-logo-png-open-2000.png" crc="4078007601" ref="laptop:desktop:index">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsys.png" crc="145960869" seo="true" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="download.png" crc="3917902792" seo="true" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mail icon.png" crc="4000437051" seo="true" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="clients-icon-png-9.png" crc="3795003337" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="computer-png-icon-27.png" crc="4134422084" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pngtree-our-services-staffgangclonecircle-solid-glyph-icon-web-car-png-image_1491930.jpg" crc="4291368363" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="nanda1-kul--621x414@livemint.jpg" crc="11360456" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="marine-display-sizes.jpg" crc="3830673952" ref="desktop">
+      <caption webpage="desktop" alt=""/>
+    </file>
+    <file name="dell-inspiron-22-3000.jpg" crc="3910895635" ref="desktop">
+      <caption webpage="desktop" alt=""/>
+    </file>
+    <file name="z200_w_zw24_monitors_mcad-proe-dirtbike_24-625x352.jpg" crc="4017693697" ref="desktop">
+      <caption webpage="desktop" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c533-u4793-fr.png" crc="3697240" ref="desktop"/>
+    <file name="dims.jpg" crc="3985146654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact-us"/>
+    <file name="20190123-01.jpg" crc="307026900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="og.png" crc="39778153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="toner-refilling-services-500x500.png" crc="3852596294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="46515-hewlett-packard-computers-dell-desktop-pc-computer-all-in-one.png" crc="4024506541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="canon-color-photo-printer-bd6.png" crc="452080558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="support-u4161-fr.png" crc="4130219910" ref="index"/>
+    <file name="0-3509_dahua-2-mp-bullet-cctv-camera-price.png" crc="4289004460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download-laptop-png-picture.png" crc="4057437654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="computer-png-images-transparent-background.png" crc="3790675961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="support.png" crc="4084047996" ref="index:accesories">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="187-1879196_pc-accessories-best-gaming-setup-2018.png" crc="519201613" ref="index:accesories">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lp.png" crc="4213235959" ref="index:accesories">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recarga-de-toner-png-1-u4218-fr.png" crc="34293726" ref="index"/>
+    <file name="network-iobanner-u4228-fr.jpg" crc="338289064" ref="index"/>
+    <file name="115309_preview.png" crc="210296769" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laser-printer-background-png.png" crc="4131669970" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-computer (1).png" crc="502587084" ref="accesories">
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="bg-data (1).jpg" crc="3993907313" ref="accesories">
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="recarga-de-toner-png-1.png" crc="3832648843" ref="accesories">
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="network-iobanner.jpg" crc="233567400" ref="accesories">
+      <caption webpage="accesories" alt=""/>
+    </file>
+  </folder>
+  <file name="laptop.html" crc="3801196406" seo="true" mt="1566722039814" redirect="true"/>
+  <file name="about.html" crc="284687268" seo="true" mt="1566721939851" redirect="true"/>
+  <file name="gallery.html" crc="535898698" seo="true" mt="1566721939851" redirect="true"/>
+  <file name="contact.html" crc="3943627626" seo="true" mt="1566721939851" redirect="true"/>
+  <file name="desktop.html" crc="3982139768" seo="true" mt="1566721939851" redirect="true"/>
+  <file name="index.html" crc="3910210616" seo="true" mt="1566742202152" redirect="true"/>
+  <file name="accesories.html" crc="3977897329" seo="true" mt="1566742202151" redirect="true"/>
+  <file name="contact-us.html" crc="424676633" seo="true" mt="1566742399531" redirect="true"/>
+</manifest>
